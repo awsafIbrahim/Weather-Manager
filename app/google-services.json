@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1018738803253",
+    "project_id": "weather-manager-a9fa7",
+    "storage_bucket": "weather-manager-a9fa7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018738803253:android:4a7c045e6d0eb09a5da77c",
+        "android_client_info": {
+          "package_name": "com.example.weathermanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqbx5qyMPF14T4sTkSyBmc1pLn_0wy39A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
